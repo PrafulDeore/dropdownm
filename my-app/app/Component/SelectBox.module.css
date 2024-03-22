@@ -1,0 +1,26 @@
+
+.selectContainer [class$="-control"] {
+  border: none !important;
+  border-radius: 0;
+  height: 44px;
+  font-size: 12px;
+  box-shadow: none;
+}
+
+.selectContainer [class$="-menu"] {
+  border-radius: 0;
+  margin: 2px 0 0 0;
+  border: 1px solid #7891aa;
+  border-top: 0;
+}
+
+
+.selectContainer [class$="-placeholder"] {
+  color: rgb(255, 0, 0);
+}
+
+.selectContainer [class$="-ValueContainer"] {
+  padding-left: 11px;
+  padding-right: 11px;
+}
+
